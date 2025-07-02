@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Logo_Missao_Enchente_SemFundo_0: 5209752461590182181
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
